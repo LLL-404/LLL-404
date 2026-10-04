@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <defs>
+    <style>
+      .disp { font-family: 'Arial Black', 'Segoe UI', sans-serif; font-weight: 900; }
+      .mono { font-family: 'Courier New', monospace; font-weight: 700; }
+    </style>
+  </defs>
+  <!-- 纸底 -->
+  <rect width="1200" height="340" fill="#fffdf5"/>
+  <!-- 外框 -->
+  <rect x="6" y="6" width="1188" height="328" fill="#000"/>
+  <rect x="14" y="14" width="1172" height="312" fill="#000"/>
+  <!-- 顶部跑马灯黑带改黄带 -->
+  <rect x="14" y="14" width="1172" height="52" fill="#ffd93d"/>
+  <text x="32" y="48" class="disp" font-size="24" fill="#000" letter-spacing="4">MCP TOOLCHAIN ★ BROWSER AUTOMATION ★ GODOT GAMES ★ CLI TOOLS ★ SHIP IT</text>
+  <!-- 主名：黄色硬阴影在白字后面 -->
+  <text x="52" y="215" class="disp" font-size="112" fill="#ffd93d">LLL-404</text>
+  <text x="42" y="205" class="disp" font-size="112" fill="#ffffff">LLL-404</text>
+  <!-- 青色下划杠 -->
+  <rect x="46" y="232" width="520" height="14" fill="#7ff3ff"/>
+  <!-- 副标语 -->
+  <text x="46" y="286" class="disp" font-size="30" fill="#fffdf5">构建工具、自动化与游戏 —— 跑起来才算数。</text>
+  <!-- 右侧贴纸块：EST -->
+  <g transform="rotate(3 1010 120)">
+    <rect x="900" y="86" width="256" height="64" fill="#ff90e8"/>
+    <rect x="900" y="86" width="256" height="64" fill="none" stroke="#000" stroke-width="6"/>
+    <text x="918" y="128" class="disp" font-size="26" fill="#000">EST.2026 · 济南</text>
+  </g>
+  <!-- 右侧贴纸块：身份词 -->
+  <g transform="rotate(-2 1010 215)">
+    <rect x="872" y="176" width="292" height="70" fill="#7ff3ff"/>
+    <rect x="872" y="176" width="292" height="70" fill="none" stroke="#000" stroke-width="6"/>
+    <text x="890" y="204" class="disp" font-size="22" fill="#000">MCP · AUTOMATION</text>
+    <text x="890" y="232" class="disp" font-size="22" fill="#000">GODOT · GAMES</text>
+  </g>
+  <!-- 底部细节条 -->
+  <rect x="14" y="298" width="1172" height="28" fill="#b8f53d"/>
+  <text x="32" y="319" class="mono" font-size="18" fill="#000">$ whoami → builder of tools, wrangler of agents, godot tinkerer_</text>
+</svg>
