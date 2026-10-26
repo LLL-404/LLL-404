@@ -50,7 +50,11 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/LLL-404/LLL-404/main/profile-3d-contrib/profile-season-animate.svg" alt="3d contribution skyline"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LLL-404/LLL-404/main/profile-3d-contrib/profile-night-view.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LLL-404/LLL-404/main/profile-3d-contrib/profile-season-animate.svg"/>
+    <img width="100%" src="https://raw.githubusercontent.com/LLL-404/LLL-404/main/profile-3d-contrib/profile-night-view.svg" alt="3d contribution skyline"/>
+  </picture>
 </div>
 
 ## 🗂 精选仓库
