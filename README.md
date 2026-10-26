@@ -23,17 +23,17 @@
 
 ## 📊 数据面板
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LLL-404&theme=github_dark" alt="profile details"/>
+<!-- 零图片 · 数据快照 2026-10-26 -->
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LLL-404&theme=github_dark" alt="stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=LLL-404&locale=en&background=0d1117&border=30363d&stroke=0d1117&ring=ffd93d&fire=ff90e8&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=ffd93d&sideLabels=7ff3ff&dates=8b949e" alt="streak"/>
-</div>
+| ⚡ 累计贡献 | 🔥 连击 | 📦 公开仓库 |
+|:---:|:---:|:---:|
+| **805** | **5 天** · 最长 **11 天** | **8** |
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LLL-404&theme=github_dark" alt="repos per language"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LLL-404&theme=github_dark" alt="most commit language"/>
-</div>
+🧭 **语言分布**　　　　　
+
+🕐 **提交作息**（UTC+8）　午后火力全开  · 深夜补刀 
+
+## 🎮 贡献动效
 
 ## 🎮 贡献动效
 
