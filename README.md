@@ -35,10 +35,6 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LLL-404&theme=github_dark" alt="most commit language"/>
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=LLL-404&no-frame=true&margin-w=8&margin-h=8&bg_color=000000&title_color=ffd93d&text_color=ffffff&icon_color=ff90e8" alt="trophies"/>
-</div>
-
 ## 🗂 精选仓库
 
 <a href="https://github.com/LLL-404/trae-works"><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LLL-404&repo=trae-works&bg_color=000000&title_color=ffd93d&text_color=ffffff&icon_color=ff90e8&hide_border=true"/></a>
