@@ -27,7 +27,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LLL-404&theme=github_dark" alt="stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=LLL-404&hide_border=true&background=000000&ring=ffd93d&fire=ff90e8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffd93d&sideLabels=7ff3ff&dates=aaaaaa&locale=en" alt="streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=LLL-404&locale=en&background=0d1117&border=30363d&stroke=0d1117&ring=ffd93d&fire=ff90e8&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=ffd93d&sideLabels=7ff3ff&dates=8b949e" alt="streak"/>
 </div>
 
 <div align="center">
@@ -59,10 +59,10 @@
 
 ## 🗂 精选仓库
 
-<a href="https://github.com/LLL-404/trae-works"><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LLL-404&repo=trae-works&bg_color=000000&title_color=ffd93d&text_color=ffffff&icon_color=ff90e8&hide_border=true"/></a>
-<a href="https://github.com/LLL-404/browser-agent"><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LLL-404&repo=browser-agent&bg_color=000000&title_color=ffd93d&text_color=ffffff&icon_color=ff90e8&hide_border=true"/></a>
-<a href="https://github.com/LLL-404/adb-mcp-server"><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LLL-404&repo=adb-mcp-server&bg_color=000000&title_color=ffd93d&text_color=ffffff&icon_color=ff90e8&hide_border=true"/></a>
-<a href="https://github.com/LLL-404/personal-homepage"><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LLL-404&repo=personal-homepage&bg_color=000000&title_color=ffd93d&text_color=ffffff&icon_color=ff90e8&hide_border=true"/></a>
+<a href="https://github.com/LLL-404/trae-works"><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LLL-404&repo=trae-works&bg_color=0d1117&border_color=30363d&title_color=ffd93d&text_color=e6edf3&icon_color=ff90e8"/></a>
+<a href="https://github.com/LLL-404/browser-agent"><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LLL-404&repo=browser-agent&bg_color=0d1117&border_color=30363d&title_color=ffd93d&text_color=e6edf3&icon_color=ff90e8"/></a>
+<a href="https://github.com/LLL-404/adb-mcp-server"><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LLL-404&repo=adb-mcp-server&bg_color=0d1117&border_color=30363d&title_color=ffd93d&text_color=e6edf3&icon_color=ff90e8"/></a>
+<a href="https://github.com/LLL-404/personal-homepage"><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LLL-404&repo=personal-homepage&bg_color=0d1117&border_color=30363d&title_color=ffd93d&text_color=e6edf3&icon_color=ff90e8"/></a>
 <br clear="both"/>
 
 <sub>💾 存档仓库（私有）：**warden** · Godot RTS 攻防肉鸽 ｜ **tapline** · 60-90 秒反应小游戏 ｜ **novel** · 网文创作工程</sub>
