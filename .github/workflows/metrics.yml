@@ -6,7 +6,7 @@ on:
 permissions:
   contents: write
 jobs:
-  metrics:
+  render:
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:
@@ -14,28 +14,34 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: LLL-404
-          filename: /tmp/metrics_raw.svg # 绝对路径=本地输出不提交，交给下一步做暗色手术
+          filename: metrics.svg
+          committer_branch: output
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_limit: 8
+  restyle:
+    needs: render
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
       - uses: actions/checkout@v4
         with:
           ref: output
-          path: out
-      - name: 暗色配色手术 + 提交
+      - name: 暗色配色手术
         run: |
-          sed -e 's/color:#777/color:#9aa4b2/g' \
-              -e 's/#0366d6/#ffd93d/g' \
-              -e 's/fill:#959da5/fill:#8b949e/g' \
-              -e 's/#ebedf0/#161b22/g' \
-              -e 's/#9be9a8/#4a4433/g' \
-              -e 's/#40c463/#8a7a3a/g' \
-              -e 's/#216e39/#ffd93d/g' \
-              /tmp/metrics_raw.svg > out/metrics.svg
-          cd out
+          sed -i -e 's/color:#777/color:#9aa4b2/g' \
+                 -e 's/#0366d6/#ffd93d/g' \
+                 -e 's/fill:#959da5/fill:#8b949e/g' \
+                 -e 's/#ebedf0/#161b22/g' \
+                 -e 's/#9be9a8/#4a4433/g' \
+                 -e 's/#40c463/#8a7a3a/g' \
+                 -e 's/#216e39/#ffd93d/g' \
+                 metrics.svg
+      - name: 提交
+        run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
