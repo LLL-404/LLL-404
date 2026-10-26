@@ -15,7 +15,7 @@ jobs:
           github_user_name: LLL-404
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?color_snake=#ff90e8&color_dots=#161b22,#4a4433,#8a7a3a,#c9b03d,#ffd93d
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
