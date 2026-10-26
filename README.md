@@ -26,7 +26,7 @@
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LLL-404&theme=github_dark" alt="profile details"/>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LLL-404&theme=github_dark" alt="stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LLL-404&theme=github_dark" alt="stats"/>
   <img width="49%" src="https://streak-stats.demolab.com?user=LLL-404&hide_border=true&background=000000&ring=ffd93d&fire=ff90e8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffd93d&sideLabels=7ff3ff&dates=aaaaaa&locale=en" alt="streak"/>
 </div>
 
