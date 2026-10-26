@@ -35,6 +35,24 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LLL-404&theme=github_dark" alt="most commit language"/>
 </div>
 
+## 🎮 贡献动效
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LLL-404/LLL-404/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LLL-404/LLL-404/output/github-snake.svg"/>
+    <img width="90%" src="https://raw.githubusercontent.com/LLL-404/LLL-404/output/github-snake.svg" alt="contribution snake"/>
+  </picture>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/LLL-404/LLL-404/output/metrics.svg" alt="metrics infographic"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/LLL-404/LLL-404/main/profile-3d-contrib/profile-season-animate.svg" alt="3d contribution skyline"/>
+</div>
+
 ## 🗂 精选仓库
 
 <a href="https://github.com/LLL-404/trae-works"><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LLL-404&repo=trae-works&bg_color=000000&title_color=ffd93d&text_color=ffffff&icon_color=ff90e8&hide_border=true"/></a>
