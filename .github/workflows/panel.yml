@@ -1,7 +1,7 @@
 name: data panel refresh
 on:
   schedule:
-    - cron: "0 * * * *" # 每小时整点拉真实数据，数字变了才提交
+    - cron: "0 19 * * *" # 每天 03:00 北京拉真实数据，数字变了才提交（在贪吃蛇/metrics 之后）
   workflow_dispatch:
 permissions:
   contents: write
