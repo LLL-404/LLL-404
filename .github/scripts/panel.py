@@ -77,8 +77,8 @@ block = f"""| ⚡ 累计贡献 | 🔥 连击 | 📦 公开仓库 |
 
 # ---- 5. 替换 README 标记区，变了才提交 ----
 readme = open("README.md", encoding="utf-8").read()
-new = re.sub(r"<!-- DATA:BEGIN · CI 每小时自动刷新，手改会被覆盖 -->.*?<!-- DATA:END -->",
-             lambda _: "<!-- DATA:BEGIN · CI 每小时自动刷新，手改会被覆盖 -->\n\n" + block + "\n<!-- DATA:END -->",
+new = re.sub(r"<!-- DATA:BEGIN[^>]*-->.*?<!-- DATA:END -->",
+             lambda _: "<!-- DATA:BEGIN · CI 每天自动刷新，手改会被覆盖 -->\n\n" + block + "\n<!-- DATA:END -->",
              readme, flags=re.S)
 assert new != readme or "DATA:BEGIN" in readme
 if new == readme:
