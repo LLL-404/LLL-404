@@ -1,0 +1,20 @@
+name: data panel refresh
+on:
+  schedule:
+    - cron: "0 * * * *" # 每小时整点拉真实数据，数字变了才提交
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: panel
+  cancel-in-progress: true
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: 刷新数据面板
+        run: python3 .github/scripts/panel.py
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
