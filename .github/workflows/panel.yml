@@ -6,8 +6,8 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: panel
-  cancel-in-progress: true
+  group: main-writers
+  cancel-in-progress: false
 jobs:
   refresh:
     runs-on: ubuntu-latest
