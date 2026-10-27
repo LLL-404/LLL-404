@@ -14,6 +14,7 @@
 - 🤖 做**浏览器自动化 Agent** 和各种省事的小工具
 - 🎮 用 **Godot + C#** 捯饬 RTS 攻防肉鸽与小游戏原型
 - 🌍 个人站：**[lll-404.github.io](https://lll-404.github.io/)** ← Hugo · 双语 · 新粗野主义
+- 📧 邮箱：**[2350178663@qq.com](mailto:2350178663@qq.com)**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,py,cs,godot,git,githubactions,linux,windows,bash,md&theme=dark&perline=10" alt="skills"/>
