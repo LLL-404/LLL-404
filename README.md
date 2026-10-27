@@ -13,7 +13,7 @@
 - 🔧 写 **MCP 工具**：让 AI 助手操作 Word 文档、安卓设备与浏览器
 - 🤖 做**浏览器自动化 Agent** 和各种省事的小工具
 - 🎮 用 **Godot + C#** 捯饬 RTS 攻防肉鸽与小游戏原型
-- 🌍 个人站：**[lll-404.github.io/personal-homepage](https://lll-404.github.io/personal-homepage/)**
+- 🌍 个人站：**[lll-404.github.io](https://lll-404.github.io/)** ← Hugo · 双语 · 新粗野主义
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,py,cs,godot,git,githubactions,linux,windows,bash,md&theme=dark&perline=10" alt="skills"/>
@@ -62,7 +62,7 @@
 <a href="https://github.com/LLL-404/trae-works"><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LLL-404&repo=trae-works&bg_color=0d1117&border_color=30363d&title_color=ffd93d&text_color=e6edf3&icon_color=ff90e8"/></a>
 <a href="https://github.com/LLL-404/browser-agent"><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LLL-404&repo=browser-agent&bg_color=0d1117&border_color=30363d&title_color=ffd93d&text_color=e6edf3&icon_color=ff90e8"/></a>
 <a href="https://github.com/LLL-404/adb-mcp-server"><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LLL-404&repo=adb-mcp-server&bg_color=0d1117&border_color=30363d&title_color=ffd93d&text_color=e6edf3&icon_color=ff90e8"/></a>
-<a href="https://github.com/LLL-404/personal-homepage"><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LLL-404&repo=personal-homepage&bg_color=0d1117&border_color=30363d&title_color=ffd93d&text_color=e6edf3&icon_color=ff90e8"/></a>
+<a href="https://github.com/LLL-404/LLL-404.github.io"><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LLL-404&repo=LLL-404.github.io&bg_color=0d1117&border_color=30363d&title_color=ffd93d&text_color=e6edf3&icon_color=ff90e8"/></a>
 <br clear="both"/>
 
 <sub>💾 存档仓库（私有）：**warden** · Godot RTS 攻防肉鸽 ｜ **tapline** · 60-90 秒反应小游戏 ｜ **novel** · 网文创作工程</sub>
